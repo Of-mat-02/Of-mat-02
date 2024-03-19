@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>¿QUE ES EL ACOSO ESCOLAR?</title>
+<style>
+ body{ 
+    background-image: url("fondo2.png"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+	</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<audio autoplay controls>
+    <source src="aa.mp3" type="audio/mp3">
+	<autoplay>
+        Tu navegador no soporta audio HTML5.
+</audio>
+</head>
+<body><center><p style="color: blue; font-weight: bold; font-size: xx-large;"><marquee>¿Que es el acoso escolar?</marquee></center> </p></body> 
+<body>
+<font size="5"> 
+<p style="color: white; font-weight: bold; font-size: xx-large;">El acoso escolar es cualquier forma de maltrato u hostigamiento físico, verbal o psicológico que se produce entre niños y jóvenes en edad escolar de forma reiterada a lo largo del tiempo en la escuela o el colegio. El acoso escolar es una especie de tortura, metódica y sistemática, en la que el agresor busca intimidar o controlar a la víctima, con el silencio, la indiferencia o la complicidad de otros compañeros. El acoso escolar, también se conoce como hostigamiento, maltrato, matonaje o matoneo escolar.</center>
+El Gobierno de la República tiene el objetivo de que en las escuelas de todo el país existan ambientes seguros y de sana convivencia
+Secretaría de Educación Pública | 20 de enero de 2017 Acoso Escolar, qué es y cómo identificarlo.
+</font>
+<center><img src="https://www.recreoviral.com/wp-content/uploads/2016/08/11.gif" ="500" width="500	">
+<p style="color: white; font-weight: bold; font-size: xx-large;">¿Por qué debo intervenir si mi hijo es víctima de acoso?
+<p style="color: white; font-weight: bold; font-size: xx-large;"><font size="5">
+<p><center>
+<button onclick="location.href='pagina_del_acoso2.html'">PAGINA 2</button>
+<button onclick="location.href='pagina_del_acoso3.html'">PAGINA 3</button>
+</p>
+</body>
+</html>
